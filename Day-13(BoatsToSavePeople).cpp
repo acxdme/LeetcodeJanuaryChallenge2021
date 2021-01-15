@@ -1,6 +1,6 @@
 /*
 Time complexity :
 Space complexity :
-My appraoch :
+My appraoch : A modest variation of the two sum problem.
 */
 
